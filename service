@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Miracoli</title>
+  <link href='https://fonts.googleapis.com/css?family=Roboto:400,900italic,700italic,900,700,500,500italic,400italic,300italic,300,100italic,100|Roboto+Condensed:400,700italic,700,400italic,300italic,300|Great+Vibes' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+  <link rel="stylesheet" media="all" href="/assets/application-08db876c0be77c46a1d4ebbfb45899c17ed62d2681e335dd71837df2e4b9eae9.css" data-turbolinks-track="true" />
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script src="/assets/application-29dc8673f56caf96e7df95e623ed7c4f7f431d4138a0378a0c8f42f054b7f9ec.js" data-turbolinks-track="true"></script>
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="FY31BsU4+QpWcsin3SkFWM6p0CDwBcCeP/mndKg3o2qjC/ca8sr51S4ricO+/dLxSdJ11q9vISC7Y17nejwE2w==" />
+  <meta name="keywords" content="HTML, CSS, JavaScript, Rails, Ruby">
+  <meta name="description" content="Out mission is to make miracles with your old patio furniture. Hence our name, `Miracoli`, which is Italian for miracle">
+  <meta name="author" content="Maria Arroyo, Melisa Agata, Robert Hernandez">
+  <meta name="ROBOTS" content="INDEX, FOllOW">
+</head>
+<body>
+<div id="header">
+  <div class="container">
+    <a href="/">
+      <img class="btn" src="/assets/logo-e27d06740650642cf43aa306de2ed6e13c3f80b8633d682b015393d4e9076e3b.png" alt="Logo e27d06740650642cf43aa306de2ed6e13c3f80b8633d682b015393d4e9076e3b" />
+</a>    <ul class="list-inline">
+      <li>
+        <a href="/">HOME</a>
+      </li>
+      <li>|</li>
+      <li>
+        <a href="/restore">WHY RESTORE?</a>
+      </li>
+      <li>|</li>
+      <li>
+        <a href="/service">SERVICES</a>
+      </li>
+      <li>|</li>
+      <li>
+        <a href="/swatch">SWATCH BOOK</a>
+      </li>
+      <li>|</li>
+      <li>
+        <a href="/shop">SHOP</a>
+      </li>
+      <li>|</li>
+      <li>
+        <a href="/contact">CONTACT US</a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<div id="service">
+  
+  <div class="services" id="s2">
+    <div id="s_title">
+      <span class="s_bold"> OUR SERVICES </span>
+      <br><br>
+      Pick-Up and delivery is available for all services.
+      <br>
+      Turn-around time at an average of 3 weeks from the time of pick-up.
+      <br><br>
+      <hr>
+    </div>
+    
+    <div id="s_resling">
+      <span class="s_sub">RE-SLING</span>
+      <br>
+      <hr>
+      <br><br>
+      We will make a customized sling to fit perfectly <br> on your exisiting piece of furniture.
+      <br>
+      <br>
+      <a href="/resling">
+        <img src="/assets/more_btn-bb30d8a07e43b83c4dc26d77cd2a2d2e52200bbf00188df22ede1c5fe133cb14.png" alt="More btn bb30d8a07e43b83c4dc26d77cd2a2d2e52200bbf00188df22ede1c5fe133cb14" />
+</a>    </div>
+  </div>
+  
+  <div class="services" id="s3">
+    <div id="s_restrap">
+      <span class="s_sub">RE-STRAP</span>
+      <br>
+      <hr>
+      <br><br>
+      Replace the old vinyl on your furniture by
+      <br>
+      choosing from a wide variety of colors.
+      <br>
+      <br>
+      <a href="/restrap">
+        <img src="/assets/more_btn-bb30d8a07e43b83c4dc26d77cd2a2d2e52200bbf00188df22ede1c5fe133cb14.png" alt="More btn bb30d8a07e43b83c4dc26d77cd2a2d2e52200bbf00188df22ede1c5fe133cb14" />
+</a>    </div>
+  </div>
+  
+  <div class="services" id="s4">
+    <div id="s_sand">
+      <span class="s_sub">SANDBLAST &amp; <br> POWDERCOAT </span>
+        <hr>
+        <br>
+        <br>
+        We can sandblast &amp; powdercoat almost
+        <br>
+        any item made of metal
+        <br>
+        <br>
+        <a href="/sandblast">
+          <img src="/assets/more_btn-bb30d8a07e43b83c4dc26d77cd2a2d2e52200bbf00188df22ede1c5fe133cb14.png" alt="More btn bb30d8a07e43b83c4dc26d77cd2a2d2e52200bbf00188df22ede1c5fe133cb14" />
+</a>    </div>
+  </div>
+  
+  <div class="services"  id="s5">
+    <div id="s_cushion">
+      <span class="s_sub">CUSHIONS</span>
+      <br>
+      <hr>
+      <br><br>
+      Cushions will transform your patio furniture
+      <br>
+      experience by bringing you comfort and edge.
+      <br>
+      <br>
+      <a href="/cushion">
+        <img src="/assets/more_btn-bb30d8a07e43b83c4dc26d77cd2a2d2e52200bbf00188df22ede1c5fe133cb14.png" alt="More btn bb30d8a07e43b83c4dc26d77cd2a2d2e52200bbf00188df22ede1c5fe133cb14" />
+</a>    </div>
+  </div>
+  
+  <div class="services" id="s6">
+    <div id="s_umbrella">
+      <span class="s_sub">UMBRELLA REPAIRS</span>
+      <br>
+      <hr>
+      <br><br>
+      Umbrella repairs consist of replacing parts, creating
+      <br>
+      customized umbrella covers with Sunbrella fabrics and <br>
+      strip &amp; powdercoating umbrella bases.
+      <br>
+      <br>
+      <a href="/umbrella">
+        <img src="/assets/more_btn-bb30d8a07e43b83c4dc26d77cd2a2d2e52200bbf00188df22ede1c5fe133cb14.png" alt="More btn bb30d8a07e43b83c4dc26d77cd2a2d2e52200bbf00188df22ede1c5fe133cb14" />
+</a>    </div>
+  </div>
+  
+  <div class="services" id="s7">
+    <div id="s_table">
+      <span class="s_sub">TABLES</span>
+      <br>
+      <hr>
+      <br><br>
+      Refinish your table by replacing the tabletop  
+      <br>
+      and sandblast &amp; powdercoat.
+      <br>
+      <br>
+      <a href="/table">
+        <img src="/assets/more_btn-bb30d8a07e43b83c4dc26d77cd2a2d2e52200bbf00188df22ede1c5fe133cb14.png" alt="More btn bb30d8a07e43b83c4dc26d77cd2a2d2e52200bbf00188df22ede1c5fe133cb14" />
+</a>    </div>
+  </div>
+  
+  <div class="services" id="s8">
+    <div id="s_misc">
+      <span class="s_sub">MISCELLANEOUS REPAIRS<br>SERVICES &amp; PRODUCTS</span>
+      <br><br>
+      <a href="/misc">
+        <img src="/assets/more_btn-bb30d8a07e43b83c4dc26d77cd2a2d2e52200bbf00188df22ede1c5fe133cb14.png" alt="More btn bb30d8a07e43b83c4dc26d77cd2a2d2e52200bbf00188df22ede1c5fe133cb14" />
+</a>    </div>
+  </div>
+
+</div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-68695516-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<div id="footer">
+  <div class="container">
+    <div class="row">
+      <div id="fimage" class="col-xs-3">
+        <a href="/">
+          <img src="/assets/logo_footer-63d4977372dfe5872370f1a2467360ff922d9aa2230c6907b0fa9df047781fa5.png" alt="Logo footer 63d4977372dfe5872370f1a2467360ff922d9aa2230c6907b0fa9df047781fa5" />
+</a>      </div>
+
+      <div id="fmenu" class="col-xs-2">
+        <span class="subtopic">Menu</span>
+        </br>
+        </br>
+        <a href="/">Home</a>
+        <br>
+        <a href="/restore">Why Restore?</a>
+        <br>
+        <a href="/swatch">Swatch Book</a>
+        <br>
+        <a href="/service">Service</a>
+        <br>
+        <a href="/shop">Shop</a>
+        <br>
+        <a href="/contact">Contact Us</a>
+      </div>
+
+      <div id="fcontact" class="col-xs-4">
+        <span class="subtopic">Contact Us</span>
+        </br>
+        </br>
+        17932 Georgetown Ln,
+        <br>
+        Huntington Beach, CA 92647
+        </br>
+        </br>
+        Office: (714) 502-9214
+        <br>
+        Fax: (844) 350-3038
+        </br>
+        </br>
+        <a href="mailto:INFO@MIRACOLIFURNITUREINC.COM">
+            info@miracolifurnitureinc.com
+</a>        </br>
+        </br>
+        Nazario Arroyo (Owner)
+        <br>
+        Cell: (714) 651-2544
+        </br>
+        </br>
+        Our Hours Are:
+        <br>
+        Monday-Friday
+        <br>
+        From 8:30 a.m. - 4:30 p.m.
+        <br>
+        Pacific Time
+        <br>
+        Saturday upon request.
+      </div>
+
+      <div id="fsocial" class="col-xs-3">
+        <span class="subtopic">Social</span>
+        </br>
+        </br>
+        <a target="_blank" href="https://www.facebook.com/miracolifurniture/timeline">
+          <img src="/assets/fb_footer-47c641b4a00f33fd84410503d8b6a7e212336e3262fcbbed3c397d857660ee61.png" alt="Fb footer 47c641b4a00f33fd84410503d8b6a7e212336e3262fcbbed3c397d857660ee61" />
+</a>        <a target="_blank" href="https://www.facebook.com/miracolifurniture/timeline">
+        Facebook
+</a>        </br>
+        </br>
+        <a target="_blank" href="https://instagram.com/miracolifurniture/">
+          <img src="/assets/insta_footer-7ff2d8be6a5e4d3fa8d123bf3f223ed87a22f8d72d677b9db22343dea6c3173c.png" alt="Insta footer 7ff2d8be6a5e4d3fa8d123bf3f223ed87a22f8d72d677b9db22343dea6c3173c" />
+</a>        <a target="_blank" href="https://instagram.com/miracolifurniture/">
+        Instagram
+</a>        </br>
+        </br>
+        <a target="_blank" href="http://www.yelp.com/biz/miracoli-anaheim">
+          <img src="/assets/yelp_footer-2295028b8918d49100dcd1452f88c9227f9e9a8311618a646b2b2ccf12ae1b19.png" alt="Yelp footer 2295028b8918d49100dcd1452f88c9227f9e9a8311618a646b2b2ccf12ae1b19" />
+</a>        <a target="_blank" href="http://www.yelp.com/biz/miracoli-anaheim">
+        Yelp
+</a>        </br>
+        </br>
+        <a target="_blank" href="https://www.linkedin.com/company/miracoli-furniture-inc-">
+          <img src="/assets/linkedin_footer-6d5cead4bbc8ae0b6f58258ed84b5d453f327031e95157483616e5a789a4eb50.png" alt="Linkedin footer 6d5cead4bbc8ae0b6f58258ed84b5d453f327031e95157483616e5a789a4eb50" />
+</a>        <a target="_blank" href="https://www.linkedin.com/company/miracoli-furniture-inc-">
+        Linkedin
+</a>        </br>
+        </br>
+        <a href="mailto:info@miracolifurnitureinc.com">
+          <img src="/assets/email_footer-78a09d7d909fb3c11899eedd2552c74e1c77e467e11a95164e0da650acaa4e69.png" alt="Email footer 78a09d7d909fb3c11899eedd2552c74e1c77e467e11a95164e0da650acaa4e69" />
+</a>        <a href="mailto:info@miracolifurnitureinc.com">
+        Email
+</a>      </div>
+
+    </div>
+  </div>
+</div>
+
+
+</body>
+</html>

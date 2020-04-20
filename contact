@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Miracoli</title>
+  <link href='https://fonts.googleapis.com/css?family=Roboto:400,900italic,700italic,900,700,500,500italic,400italic,300italic,300,100italic,100|Roboto+Condensed:400,700italic,700,400italic,300italic,300|Great+Vibes' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+  <link rel="stylesheet" media="all" href="/assets/application-08db876c0be77c46a1d4ebbfb45899c17ed62d2681e335dd71837df2e4b9eae9.css" data-turbolinks-track="true" />
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script src="/assets/application-29dc8673f56caf96e7df95e623ed7c4f7f431d4138a0378a0c8f42f054b7f9ec.js" data-turbolinks-track="true"></script>
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ZCQ8DHZ6AR4JbeJRp8zXpDfl4Z2nhGWlT0E0baiM4UvSoj4QQYgBwXE0ozXEGAANsJ5Ea/juhBvL283+eodG+g==" />
+  <meta name="keywords" content="HTML, CSS, JavaScript, Rails, Ruby">
+  <meta name="description" content="Out mission is to make miracles with your old patio furniture. Hence our name, `Miracoli`, which is Italian for miracle">
+  <meta name="author" content="Maria Arroyo, Melisa Agata, Robert Hernandez">
+  <meta name="ROBOTS" content="INDEX, FOllOW">
+</head>
+<body>
+<div id="header">
+  <div class="container">
+    <a href="/">
+      <img class="btn" src="/assets/logo-e27d06740650642cf43aa306de2ed6e13c3f80b8633d682b015393d4e9076e3b.png" alt="Logo e27d06740650642cf43aa306de2ed6e13c3f80b8633d682b015393d4e9076e3b" />
+</a>    <ul class="list-inline">
+      <li>
+        <a href="/">HOME</a>
+      </li>
+      <li>|</li>
+      <li>
+        <a href="/restore">WHY RESTORE?</a>
+      </li>
+      <li>|</li>
+      <li>
+        <a href="/service">SERVICES</a>
+      </li>
+      <li>|</li>
+      <li>
+        <a href="/swatch">SWATCH BOOK</a>
+      </li>
+      <li>|</li>
+      <li>
+        <a href="/shop">SHOP</a>
+      </li>
+      <li>|</li>
+      <li>
+        <a href="/contact">CONTACT US</a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<div id="contact_us">
+  <div class="container">
+    <div class="row">
+
+      <!-- left column -->
+      <div class="col-xs-6">
+
+        <div class="row">
+          <div class="col-xs-4 col-xs-offset-2">
+            <img src="/assets/visit_us-2ca785c9d08849dcedbf7b6847b22f732fb1885486804dd1c801f014a2098cf0.png" alt="Visit us 2ca785c9d08849dcedbf7b6847b22f732fb1885486804dd1c801f014a2098cf0" />
+          </div>
+        </div>
+
+        </br>
+        </br>
+
+        <div class="row">
+          <div class="col-xs-4 col-xs-offset-2">
+            <p class="bubble">
+              <iframe width="327" height="232" frameborder="0" style="border:0;position: relative;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3319.265223420374!2d-117.99590858479412!3d33.7020853807027!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dd26eb3fdfea5f%3A0x1f1fe6154a857529!2s17932+Georgetown+Ln%2C+Huntington+Beach%2C+CA+92647!5e0!3m2!1sen!2sus!4v1514928750840" allowfullscreen></iframe>
+            </p>
+          </div>
+        </div>
+
+        </br>
+        </br>
+
+        <div class="row">
+          <div id="contact_left" class="col-xs-7 col-xs-offset-2">
+            <ul>
+              <li><div id="visit_head"><img src="/assets/point-bc20aa0fe57870b32d78ec0bf0fbae511750d7350cd9bf9ae9b5f2242b645e5a.png" alt="Point bc20aa0fe57870b32d78ec0bf0fbae511750d7350cd9bf9ae9b5f2242b645e5a" /> Miracoli Furniture, Inc</div> </li>
+              <li> 17932 Georgetown Ln</li>
+              <li> Huntington Beach, CA 92647</li>
+              </br>
+              <li>Email:
+                <a href="mailto:info@miracolifurnitureinc.com">
+                  info@miracolifurnitureinc.com
+</a>              </li>
+              </br>
+              <li>Office: (714) 502 - 9214</li>
+              <li>Fax:    (844) 350 - 3038</li>
+              </br>
+              <li><div id="visit_head2">Our Hours Are:</div></li>
+              </br>
+              <li>Monday - Friday</li>
+              <li>From 8:30 a.m. - 4:30 p.m.</li>
+              </br></br></br>
+              <li><div id="visit_head2">For updates, follow us on Social Media:</div></li>
+              </br>
+              <li>
+                <a target="_blank" href="https://www.facebook.com/miracolifurniture/timeline">
+                  <img src="/assets/fb-17cc7aa6f6000a2962f44711f8e85b23b0fc238fdd5df8a768fe33a304eb7dcf.png" alt="Fb 17cc7aa6f6000a2962f44711f8e85b23b0fc238fdd5df8a768fe33a304eb7dcf" />
+</a>                <a target="_blank" href="https://instagram.com/miracolifurniture/">
+                  <img src="/assets/insta-480c57102aa7f32442afc02fb898d3515c187dc9d35867fd9c2b8518f692b6f6.png" alt="Insta 480c57102aa7f32442afc02fb898d3515c187dc9d35867fd9c2b8518f692b6f6" />
+</a>                <a target="_blank" href="http://www.yelp.com/biz/miracoli-anaheim">
+                  <img src="/assets/yelp-1bca399eb4ff660620ad8da0b1bdda18f75b57f3d5491abf5d3a4156b84305cd.png" alt="Yelp 1bca399eb4ff660620ad8da0b1bdda18f75b57f3d5491abf5d3a4156b84305cd" />
+</a>                <a target="_blank" href="https://www.linkedin.com/company/miracoli-furniture-inc-">
+                  <img src="/assets/linked-ef993ab537e11acca6fb0610da62fea73102407423994e1ed797bba0e8443b06.png" alt="Linked ef993ab537e11acca6fb0610da62fea73102407423994e1ed797bba0e8443b06" />
+</a>              </li>
+            </ul>
+          </div>
+        </div>
+
+      </div>
+      <!-- end left column -->
+
+      <!-- right column -->
+      <div class="col-xs-6">
+
+        <div class="row">
+          <div class="col-xs-4 col-xs-offset-2"><img src="/assets/visit_us_2-97033cd50be908c0a453b8022b8c0a1890cff7f441c8b946fcb654926e61081e.png" alt="Visit us 2 97033cd50be908c0a453b8022b8c0a1890cff7f441c8b946fcb654926e61081e" />
+          </div>
+        </div>
+
+
+        <div class="row">
+          <div class="col-xs-6 col-xs-offset-2">
+            </br></br>
+            <form id="contact_right" enctype="multipart/form-data" action="/contact_email" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="yfZp+2XyWO9HwVRSmy8RN6Cs7iR4d0+C3pnR4mG6o9p/cGvnUgBYMD+YFTb4+8aeJ9dL0icdrjxaAyhxs7EEaw==" />
+              <div><label for="name">Name</label></div>
+              <div><input type="text" name="name" id="name" value="" class="contact_size" placeholder="John Smith" required="required" /></div>
+
+              </br>
+
+              <div><label for="phone">Phone</label></div>
+              <div><input type="tel" name="phone" id="phone" value="" class="contact_size" placeholder="(714) 502 - 9214" required="required" /></div>
+
+              </br>
+
+              <div><label for="email">Email</label></div>
+              <div><input type="email" name="email" id="email" value="" class="contact_size" placeholder="info@miracolifurnitureinc.com" required="required" /></div>
+
+              </br>
+
+              <div><label for="Furniture_Description">Furniture description</label></div>
+              <div><textarea name="furniture" id="furniture" class="contact_tsize" placeholder="10 year old mahogany chair" required="required">
+</textarea></div>
+
+              </br>
+
+              <div><label for="Services_Requested">Services requested</label></div>
+              <div><textarea name="services" id="services" class="contact_tsize" placeholder="Re-Sling" required="required">
+</textarea></div>
+
+              <div id="theme">
+                <label for="theme">Pick Up or Delivery? (Optional):</label>
+                <span><br><input type="radio" name="theme" id="theme_Yes_Please_" value="Yes Please!" checked="checked" />&nbsp;&nbsp;Yes please!<br><input type="radio" name="theme" id="theme_NO" value="NO" checked="checked" />&nbsp;&nbsp;No<br><input type="radio" name="theme" id="theme_Pick-Up_Only__city_" value="Pick-Up Only (city)" checked="checked" />&nbsp;&nbsp;Pick-up only (city)<br><input type="radio" name="theme" id="theme_Delivery_Only__city_" value="Delivery Only (city)" checked="checked" />&nbsp;&nbsp;Delivery only (city)</span>
+                <p id="theme_location">
+                  <label for="address">Write your address here:</label>
+                  <textarea name="address" id="address" class="contact_tsize" placeholder="EX: 17932 Georgetown Ln. 
+ Huntington Beach, CA 92647">
+</textarea>
+                </p>
+              </div>
+
+              </br>
+
+              <div><label for="contact_attach">Upload a Photo of your Furniture:</label></div>
+              <div class="upload"><input type="file" name="contact_attach[]" id="contact_attach_" multiple="multiple" /></div>
+              <br>
+              <p> For a more accurate proposal, <br>please attach a photo </p>
+
+              <br>
+
+              <div><input type="submit" name="commit" value="Submit" class="btn btn-primary melbtn" /></div>
+              <br>
+              <div id="submit_flash">
+                
+              </div>
+              <div>You will be contacted within 1 business day.</div>
+</form>            <!-- end of form -->
+          </div>
+        </div>
+
+      </div>
+      <!-- end right column -->
+
+    </div>
+  </div>
+</div>
+
+<script>
+  $(document).ready(function() {
+    $('input[type=radio]').change(function() {
+      if (this.value === 'NO') {
+        $('#theme_location').hide()
+      } else {
+        $('#theme_location').show()
+      }
+    });
+  });
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-68695516-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<div id="footer">
+  <div class="container">
+    <div class="row">
+      <div id="fimage" class="col-xs-3">
+        <a href="/">
+          <img src="/assets/logo_footer-63d4977372dfe5872370f1a2467360ff922d9aa2230c6907b0fa9df047781fa5.png" alt="Logo footer 63d4977372dfe5872370f1a2467360ff922d9aa2230c6907b0fa9df047781fa5" />
+</a>      </div>
+
+      <div id="fmenu" class="col-xs-2">
+        <span class="subtopic">Menu</span>
+        </br>
+        </br>
+        <a href="/">Home</a>
+        <br>
+        <a href="/restore">Why Restore?</a>
+        <br>
+        <a href="/swatch">Swatch Book</a>
+        <br>
+        <a href="/service">Service</a>
+        <br>
+        <a href="/shop">Shop</a>
+        <br>
+        <a href="/contact">Contact Us</a>
+      </div>
+
+      <div id="fcontact" class="col-xs-4">
+        <span class="subtopic">Contact Us</span>
+        </br>
+        </br>
+        17932 Georgetown Ln,
+        <br>
+        Huntington Beach, CA 92647
+        </br>
+        </br>
+        Office: (714) 502-9214
+        <br>
+        Fax: (844) 350-3038
+        </br>
+        </br>
+        <a href="mailto:INFO@MIRACOLIFURNITUREINC.COM">
+            info@miracolifurnitureinc.com
+</a>        </br>
+        </br>
+        Nazario Arroyo (Owner)
+        <br>
+        Cell: (714) 651-2544
+        </br>
+        </br>
+        Our Hours Are:
+        <br>
+        Monday-Friday
+        <br>
+        From 8:30 a.m. - 4:30 p.m.
+        <br>
+        Pacific Time
+        <br>
+        Saturday upon request.
+      </div>
+
+      <div id="fsocial" class="col-xs-3">
+        <span class="subtopic">Social</span>
+        </br>
+        </br>
+        <a target="_blank" href="https://www.facebook.com/miracolifurniture/timeline">
+          <img src="/assets/fb_footer-47c641b4a00f33fd84410503d8b6a7e212336e3262fcbbed3c397d857660ee61.png" alt="Fb footer 47c641b4a00f33fd84410503d8b6a7e212336e3262fcbbed3c397d857660ee61" />
+</a>        <a target="_blank" href="https://www.facebook.com/miracolifurniture/timeline">
+        Facebook
+</a>        </br>
+        </br>
+        <a target="_blank" href="https://instagram.com/miracolifurniture/">
+          <img src="/assets/insta_footer-7ff2d8be6a5e4d3fa8d123bf3f223ed87a22f8d72d677b9db22343dea6c3173c.png" alt="Insta footer 7ff2d8be6a5e4d3fa8d123bf3f223ed87a22f8d72d677b9db22343dea6c3173c" />
+</a>        <a target="_blank" href="https://instagram.com/miracolifurniture/">
+        Instagram
+</a>        </br>
+        </br>
+        <a target="_blank" href="http://www.yelp.com/biz/miracoli-anaheim">
+          <img src="/assets/yelp_footer-2295028b8918d49100dcd1452f88c9227f9e9a8311618a646b2b2ccf12ae1b19.png" alt="Yelp footer 2295028b8918d49100dcd1452f88c9227f9e9a8311618a646b2b2ccf12ae1b19" />
+</a>        <a target="_blank" href="http://www.yelp.com/biz/miracoli-anaheim">
+        Yelp
+</a>        </br>
+        </br>
+        <a target="_blank" href="https://www.linkedin.com/company/miracoli-furniture-inc-">
+          <img src="/assets/linkedin_footer-6d5cead4bbc8ae0b6f58258ed84b5d453f327031e95157483616e5a789a4eb50.png" alt="Linkedin footer 6d5cead4bbc8ae0b6f58258ed84b5d453f327031e95157483616e5a789a4eb50" />
+</a>        <a target="_blank" href="https://www.linkedin.com/company/miracoli-furniture-inc-">
+        Linkedin
+</a>        </br>
+        </br>
+        <a href="mailto:info@miracolifurnitureinc.com">
+          <img src="/assets/email_footer-78a09d7d909fb3c11899eedd2552c74e1c77e467e11a95164e0da650acaa4e69.png" alt="Email footer 78a09d7d909fb3c11899eedd2552c74e1c77e467e11a95164e0da650acaa4e69" />
+</a>        <a href="mailto:info@miracolifurnitureinc.com">
+        Email
+</a>      </div>
+
+    </div>
+  </div>
+</div>
+
+
+</body>
+</html>
